@@ -6,7 +6,7 @@
   "publisher": "Vybzern",
   "repository": "https://github.com/NicolayOlsen/VerseLanguageSupport",
   "engines": {
-    "vscode": "^1.108.1"
+    "vscode": "^1.75.0"
   },
   "categories": [
     "Programming Languages"
