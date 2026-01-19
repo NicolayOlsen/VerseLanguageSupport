@@ -1,4 +1,4 @@
-# Verse Language Support
+# Verse Language Support VSCode Extension
 
 Syntax highlighting and language support for Verse (UEFN)
 
