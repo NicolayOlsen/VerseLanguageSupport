@@ -4,6 +4,7 @@
   "description": "Syntax highlighting and language support for Verse (UEFN)",
   "version": "0.1.0",
   "publisher": "Vybzern",
+  "repository": "https://github.com/NicolayOlsen/VerseLanguageSupport",
   "engines": {
     "vscode": "^1.108.1"
   },
