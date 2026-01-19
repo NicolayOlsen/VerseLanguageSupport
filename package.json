@@ -1,0 +1,30 @@
+{
+  "name": "verse-language",
+  "displayName": "Verse Language Support",
+  "description": "Syntax highlighting and language support for Verse (UEFN)",
+  "version": "0.1.0",
+  "publisher": "Vybzern",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "verse",
+        "aliases": ["Verse", "verse"],
+        "extensions": [".verse"],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "verse",
+        "scopeName": "source.verse",
+        "path": "./syntaxes/verse.tmLanguage.json"
+      }
+    ]
+  }
+}
